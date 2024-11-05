@@ -14,3 +14,6 @@ print(type(is_rich))
 print("Hellom my name is ", name)
 print("My age is ", age)
 print("is he rich?" , is_rich)
+
+
+print("a")
